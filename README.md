@@ -15,9 +15,6 @@ fork from [My Blog](https://github.com/ZHENFENG13/My-Blog)  from  [Tale](https:/
 
  博客首页：
  ![](img/index.png)
-
- 归档：
- ![](img/metas.png)
  
  **后台管理**
  

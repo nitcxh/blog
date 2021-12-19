@@ -49,6 +49,7 @@ public class CoreApplication extends SpringBootServletInitializer
 
 
     public static void main(String[] args) {
+        org.burningwave.core.assembler.StaticComponentContainer.Modules.exportAllToAll();
         SpringApplication.run(CoreApplication.class, args);
     }
 }

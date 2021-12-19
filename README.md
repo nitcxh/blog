@@ -1,4 +1,4 @@
-## Release
+## Release 2021-12-19
   1. jdk17+msql8 run ok.
 
 ## Blog

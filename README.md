@@ -31,6 +31,7 @@ fork from [My Blog](https://github.com/ZHENFENG13/My-Blog)  from  [Tale](https:/
 ## Tks
 
 [ZHENFENG13](https://github.com/ZHENFENG13)
-[My Blog](https://github.com/ZHENFENG13/My-Blog)  
+
 [Tale](https://github.com/otale/tale) 
+
 [otale](https://github.com/otale)

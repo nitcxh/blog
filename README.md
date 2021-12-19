@@ -3,13 +3,9 @@
 
 ## Blog
 
-fork from [My Blog](https://github.com/ZHENFENG13/My-Blog)  from  [Tale](https://github.com/otale/tale) 
+fork from [zhisheng17/blog](https://github.com/zhisheng17/blog) from [My Blog](https://github.com/ZHENFENG13/My-Blog)  from  [Tale](https://github.com/otale/tale) 
 
-`Tale` use: mvc `Blade` ，`pinghsu` 。
-
-`My-Blog` use Docker + SpringBoot + Mybatis + thymeleaf 
-
-[ZHENFENG13](https://github.com/ZHENFENG13) rm Docker
+use: mvc`Blade`, `pinghsu`, SpringBoot + Mybatis + thymeleaf 
 
 ## function：
 
